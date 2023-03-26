@@ -1,4 +1,4 @@
-package HW4;
+package HomeworkC4;
 
 public class Month {
     public static void main(String[] args) {
