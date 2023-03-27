@@ -6,7 +6,7 @@ public class CityTemp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter city name");
-        String city = scanner.next();
+        String city = scanner.nextLine();
         System.out.println("Enter temperature in fahrenheit");
 
         double temperature = scanner.nextDouble();

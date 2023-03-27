@@ -8,9 +8,9 @@ public class Loan {
         System.out.println("Preffered loan amount");
         int loan = scanner.nextInt();
         if (loan <= 200000) {
-            System.out.println("Loan ammount approved");
+            System.out.println("Loan amount approved");
         } else {
-            System.out.println("Loan ammount rejected");
+            System.out.println("Loan amount rejected");
 
         }
     }
