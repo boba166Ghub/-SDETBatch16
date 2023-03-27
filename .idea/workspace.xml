@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7629df7-77f1-4a28-bb8d-b2829139c9c8" name="Changes" comment="homework_class4">
+      <change afterPath="$PROJECT_DIR$/SDETJavaBatch16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkClass2/New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkClass2/VariableValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkClass2/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkClass3/DoubleComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkClass3/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkClass3/Four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkClass3/Hours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkClass3/PositiveNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeworkClass3/TemperatureCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E10ShorthandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E11ShortHandOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E12ShortHandOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E13TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E14TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E15TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E16ComparisonOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E17IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E18IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E19ifElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E1Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E20ifElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E2Subtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E3Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E4Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E5Modulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E6Modulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E7StringConceat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E8StringConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/E9ShorthandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class4/E10Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class4/E11Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class4/E12NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class4/E1IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class4/E2E1IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class4/E3IfElseIfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class4/E4ElseIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class4/E5Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class4/E6Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class4/E7Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class4/E8Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class4/E9Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercize/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercize/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercize/ScannerTut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercize/ScannerTut1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeworkC4/CityTemp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeworkClass4/CityTemp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeworkC4/Dmv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeworkClass4/Dmv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeworkC4/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeworkClass4/Loan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeworkC4/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeworkClass4/Month.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NBtI7gcqKPmMQY3c5PPYRGq8kJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Month">
+    <configuration name="CityTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkClass4.CityTemp" />
+      <module name="SDETJavaBatch16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeworkClass4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dmv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkClass4.Dmv" />
+      <module name="SDETJavaBatch16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeworkClass4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E7StringConceat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class3.E7StringConceat" />
+      <module name="SDETJavaBatch16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkClass4.Month" />
+      <module name="SDETJavaBatch16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeworkClass4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerTut1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercize.ScannerTut1" />
+      <module name="SDETJavaBatch16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Month" />
+        <item itemvalue="Application.E7StringConceat" />
+        <item itemvalue="Application.ScannerTut1" />
+        <item itemvalue="Application.CityTemp" />
+        <item itemvalue="Application.Dmv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7629df7-77f1-4a28-bb8d-b2829139c9c8" name="Changes" comment="" />
+      <created>1679149223468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679149223468</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1679868158657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679868158657</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial">
+      <created>1679869373374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679869373374</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial">
+      <created>1679869640669</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679869640669</updated>
+    </task>
+    <task id="LOCAL-00004" summary="homework_class4">
+      <created>1679869860721</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679869860721</updated>
+    </task>
+    <task id="LOCAL-00005" summary="homework_class4">
+      <created>1679870864399</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679870864399</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <MESSAGE value="homework_class4" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework_class4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/class2/Task.java</url>
+          <line>3</line>
+          <properties class="class2.Task" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class4/E4ElseIF.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
