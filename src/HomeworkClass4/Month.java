@@ -1,4 +1,4 @@
-package HomeworkC4;
+package HomeworkClass4;
 
 public class Month {
     public static void main(String[] args) {
