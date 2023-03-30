@@ -18,7 +18,7 @@ public class MonthPositiveOdd {
             System.out.println("The number is negative");
         }
         int number=37;
-        if (number %4==0)
+        if (number %2==0)
         {
             System.out.println("37 is even");
         }
